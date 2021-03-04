@@ -1,0 +1,1 @@
+This repository does not contain any source code belonging to ServerDB API & ServerDB Bot. This repository exists to track issues, bug reports and feature requests on issues tab. If you need further help using ServerDB, you can consider joining our support server: http://discord.gg/9aRBdpJ
